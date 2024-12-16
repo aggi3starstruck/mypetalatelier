@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429666723193",
+    "project_id": "the-petal-atelier",
+    "storage_bucket": "the-petal-atelier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429666723193:android:b23c4df905f5524c647ba8",
+        "android_client_info": {
+          "package_name": "com.example.thepetalatelier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl57NRRiXd3sjjYoQ3urXj5Y2wTsIT9qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
